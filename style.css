@@ -1,0 +1,38 @@
+.heading-style{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+.tab-section{
+    background-color: rgb(95, 74, 109);
+    margin-top: 50px;
+    padding: 50px 50px;
+}
+.carosel-section{
+    margin-top: 50px;
+    background-color: #ddd;
+    padding: 50px 50px;
+}
+.scrollspy-section{
+    background-color: #fff;
+    margin-top: 50px;
+    padding: 50px 50px;
+    text-align: center;
+}
+.progressbar-section{
+    margin-top: 50px;
+    background-color: #fafaff;
+    padding: 50px 50px;
+}
+.progressbar-section .hudai{
+    margin-bottom: 25px;
+}
+.pagination-section{
+    margin-top: 50px;
+    background-color: #dadada;
+    padding: 50px 50px;
+}
